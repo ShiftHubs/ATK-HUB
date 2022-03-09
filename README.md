@@ -16,7 +16,21 @@ local HWID = {
    "HWID",
    "HWID",
    "HWID",
+   "HWID",
+   "HWID",
+   "HWID",
+   "HWID",
+   "HWID",
+   "HWID",
+   "HWID",
+   "HWID",
+   "HWID",
+   "HWID",
+   "HWID",
+   "HWID",
+   "HWID",
    "HWID"
+   
 }
 
 local Old = game:GetService("RbxAnalyticsService"):GetClientId()
